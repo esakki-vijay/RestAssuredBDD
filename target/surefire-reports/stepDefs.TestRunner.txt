@@ -1,0 +1,52 @@
+-------------------------------------------------------------------------------
+Test set: stepDefs.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 26, Failures: 16, Errors: 0, Skipped: 0, Time elapsed: 13.778 s <<< FAILURE! - in stepDefs.TestRunner
+runScenario(stepDefs.TestRunner)  Time elapsed: 4.299 s  <<< FAILURE!
+java.net.ConnectException: Connection refused: connect
+
+runScenario(stepDefs.TestRunner)  Time elapsed: 4.299 s  <<< FAILURE!
+java.net.ConnectException: Connection refused: connect
+
+runScenario(stepDefs.TestRunner)  Time elapsed: 0.176 s  <<< FAILURE!
+java.net.ConnectException: Connection refused: connect
+
+runScenario(stepDefs.TestRunner)  Time elapsed: 0.322 s  <<< FAILURE!
+java.net.ConnectException: Connection refused: connect
+
+runScenario(stepDefs.TestRunner)  Time elapsed: 0 s  <<< FAILURE!
+java.net.ConnectException: Connection refused: connect
+
+runScenario(stepDefs.TestRunner)  Time elapsed: 0.83 s  <<< FAILURE!
+java.net.ConnectException: Connection refused: connect
+
+runScenario(stepDefs.TestRunner)  Time elapsed: 0 s  <<< FAILURE!
+java.net.ConnectException: Connection refused: connect
+
+runScenario(stepDefs.TestRunner)  Time elapsed: 0.002 s  <<< FAILURE!
+java.net.ConnectException: Connection refused: connect
+
+runScenario(stepDefs.TestRunner)  Time elapsed: 0.002 s  <<< FAILURE!
+java.net.ConnectException: Connection refused: connect
+
+runScenario(stepDefs.TestRunner)  Time elapsed: 0.006 s  <<< FAILURE!
+java.net.ConnectException: Connection refused: connect
+
+runScenario(stepDefs.TestRunner)  Time elapsed: 2.585 s  <<< FAILURE!
+java.net.ConnectException: Connection refused: connect
+
+runScenario(stepDefs.TestRunner)  Time elapsed: 3.106 s  <<< FAILURE!
+java.net.ConnectException: Connection refused: connect
+
+runScenario(stepDefs.TestRunner)  Time elapsed: 3.106 s  <<< FAILURE!
+java.net.ConnectException: Connection refused: connect
+
+runScenario(stepDefs.TestRunner)  Time elapsed: 3.106 s  <<< FAILURE!
+java.net.ConnectException: Connection refused: connect
+
+runScenario(stepDefs.TestRunner)  Time elapsed: 3.272 s  <<< FAILURE!
+java.net.ConnectException: Connection refused: connect
+
+runScenario(stepDefs.TestRunner)  Time elapsed: 3.437 s  <<< FAILURE!
+java.net.ConnectException: Connection refused: connect
+
